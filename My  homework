@@ -1,0 +1,2 @@
+a = input('請輸入')
+b = print('hole'+a)
