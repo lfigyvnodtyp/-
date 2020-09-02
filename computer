@@ -1,0 +1,4 @@
+ a = int(input('請輸入數字 a='))
+ b = int(input('請輸入數字 b='))
+
+ print (a+b)
