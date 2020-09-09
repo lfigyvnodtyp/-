@@ -1,0 +1,5 @@
+a = float(input("請輸入分數"))
+if a>=60:
+  print("通過")
+else:
+  print("沒通過")
