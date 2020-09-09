@@ -1,0 +1,12 @@
+a = float(input("請輸入國語的分數"))
+b = float(input("請輸入數學的分數"))
+c = float(input("請輸入英文的分數"))
+
+x =float(a+b+c)
+print(str(x))
+x = int
+x = (a+b+c)/3
+if x>=60:
+  print("沒通過")
+else:
+  print("沒通過")
