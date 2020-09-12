@@ -1,0 +1,9 @@
+print("輸入 '+' 讓兩個數值互加")
+print("輸入 'exit' 來結束程式")
+user_input = input(": ")
+    
+if user_input == "+":
+sam = float(input("請輸入數字)+(請再次輸入數字"))
+  print("sam")
+else:
+  print("不知道你在輸入什麼")
