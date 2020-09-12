@@ -1,0 +1,7 @@
+for sam in range(101):
+  print(sam,end="")
+
+  print() #換行
+
+for sam in range(101,5-5):
+  print(sam,end="")
