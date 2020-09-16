@@ -1,0 +1,23 @@
+a = float(input("請輸入國語的分數"))
+b = float(input("請輸入數學的分數"))
+c = float(input("請輸入英文的分數"))
+d = float(input("請輸入歷史的分數"))
+e = float(input("請輸入地理的分數"))
+f = float(input("請輸入生物的分數"))
+g = float(input("請輸入化學的分數"))
+h = float(input("請輸入物理的分數"))
+
+x =float(a+b+c+d+e+f+g)
+print(str(x))
+x = int
+x = (a+b+c/3)
+if x>=630:
+  print("優")
+elif x>=560:
+   print("甲")
+elif x>=490:
+   print("乙")
+elif x>=420:
+   print("丙")
+else ㄌ
+  print("甲賽")
